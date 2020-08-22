@@ -6,11 +6,18 @@ This is the central reposatory for Tools and Information related to each of the 
 
 # Information worth paying attention to
 https://sans.org
+
 https://raw.githubusercontent.com/holisticinfosec/toolsmith_R/master/HIBPwned.Rmd
+
 https://github.com/NextronSystems
+
 https://bitnami.com/stacks
+
 https://holisticinfosec.blogspot.com/
+
 https://holisticinfosec.blogspot.com/2018/01/toolsmith-130-osint-with-buscador.html
+
+---
 
 # Logging, Alerting, and Health 
 
