@@ -25,25 +25,25 @@ https://holisticinfosec.blogspot.com/2018/01/toolsmith-130-osint-with-buscador.h
 Alien Vault (OSSIM):\
 https://otx.alienvault.com
 
-Splunk:
+Splunk:\
 http://securityonion.blogspot.com/
 
-SIEM Solutions:
+SIEM Solution:\
 https://siemonster.com/
 
-Netdata:
+Netdata:\
 https://github.com/firehol/netdata  
 
-Logalyze:
+Logalyze:\
 http://www.logalyze.com/
 
-GreyLog2:
+GreyLog2:\
 http://graylog2.org/
 
-siemonster:
+siemonster:\
 https://siemonster.com/
 
-Echo Fish (Syslog Collector & Live Monitor):
+Echo Fish (Syslog Collector & Live Monitor):\
 https://linoxide.com/linux-how-to/echofish-tool-monitor-system-logs-webbrowser/
 
 https://andreafortuna.org/dfir/windows-event-logs-in-forensic-analysis/
