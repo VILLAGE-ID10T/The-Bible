@@ -5,7 +5,7 @@ This is the central reposatory for Tools and Information related to each of the 
 ---
 
 # Information worth paying attention to
-```
+
 https://sans.org
 
 https://raw.githubusercontent.com/holisticinfosec/toolsmith_R/master/HIBPwned.Rmd
@@ -17,11 +17,11 @@ https://bitnami.com/stacks
 https://holisticinfosec.blogspot.com/
 
 https://holisticinfosec.blogspot.com/2018/01/toolsmith-130-osint-with-buscador.html
-```
+
 ---
 
 # Logging, Alerting, and Health 
-```
+
 Alien Vault (OSSIM)
 https://otx.alienvault.com
 
@@ -49,11 +49,11 @@ https://linoxide.com/linux-how-to/echofish-tool-monitor-system-logs-webbrowser/
 https://andreafortuna.org/dfir/windows-event-logs-in-forensic-analysis/
 
 http://www.forensicswiki.org/wiki/Windows_XML_Event_Log_%28EVTX%29
-```
+
 ---
 
 # Network Automation
-```
+
 Tools and Tech
 - Ansible
 - Expect
@@ -67,18 +67,18 @@ Tools and Tech
 Scanners:
 OpenVAS:
 https://hackertarget.com/openvas-scan/
-```
+
 
 ---
 # Penetration Testing
-```
+
 Tools and Tech
 -Kali and Stuff
 
 Training:
 WebGoat
 https://s3.amazonaws.com/webgoat-war/webgoat-container-7.0-SNAPSHOT-war-exec.jar
-```
+
 ---
 
 # Network Forensics
