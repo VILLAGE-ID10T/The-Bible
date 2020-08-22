@@ -65,7 +65,7 @@ Tools and Tech
 -Kali and Stuff
 
 Scanners:
-OpenVAS:
+OpenVAS:\
 https://hackertarget.com/openvas-scan/
 
 
@@ -75,7 +75,7 @@ https://hackertarget.com/openvas-scan/
 Tools and Tech
 -Kali and Stuff
 
-Training:
+Training:\
 WebGoat
 https://s3.amazonaws.com/webgoat-war/webgoat-container-7.0-SNAPSHOT-war-exec.jar
 
@@ -104,63 +104,63 @@ Tools and Tech
 
 https://github.com/MHaggis/sysmon-dfir
 
-Elk Dashboards:
+Elk Dashboards:\
 https://cyberwardog.blogspot.com/2017/03/building-sysmon-dashboard-with-elk-stack.html
 
-Sysmon Threat Intelligence Configuration : Logs directly to Graylog
+Sysmon Threat Intelligence Configuration :\ Logs directly to Graylog
 https://cyberwardog.blogspot.com/2017/03/building-sysmon-dashboard-with-elk-stack.html
 
-Helk:
+Helk:\
 https://github.com/Cyb3rWard0g/HELK/wiki/Installation
 
-Windows VM's
+Windows VM's:\
   https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
   
-BIN TEXT
+BIN TEXT:\
   https://www.mcafee.com/hk/downloads/free-tools/bintext.aspx
 
-Google dorks –
+Google dork:\
 https://en.wikipedia.org/wiki/Google_hacking
 
-foca
+foca:\
 find metadata and hidden information in the documents its scan
 https://www.elevenpaths.com/labstools/foca/index.html
 
-feirce
+feirce:\
 Fierce is a DNS reconnaissance tool for locating non-contiguous IP space.
 https://github.com/mschwager/fierce
 
-Maltego
+Maltego:\
 http://checkusernames.com/
 
-BuiltWith
+BuiltWith:\
 BuiltWith – Find out what websites are built with.
 
-Wappalyzer 
+Wappalyzer:\
  A cross-platform utility that uncovers the technologies used on websites.
 
-aw-snap
+aw-snap:\
 https://aw-snap.info/ 
 
-Mnemonic
+Mnemonic:\
 A passive DNS database
 
-Lnav
+Lnav:\
 An advanced log file viewer
 
-Mandiant Highlighter
+Mandiant Highlighter:\
 A free log file analysis tool.
 
-Auditd
+Auditd:\
 ccess monitoring and accounting for Linux.
 
-Araxis Merge
+Araxis Merge:\
 Advanced 2 and 3-way file comparison (diff), merging and folder synchronization.
 
-CyberChef
+CyberChef:\
 The Cyber Swiss Army Knife
 
-LordPE
+LordPE:\
 Used for code injection and file analisys
 https://www.aldeid.com/wiki/LordPE
 
@@ -168,13 +168,13 @@ https://www.aldeid.com/wiki/LordPE
 # Intrusion Detection
 Tools and Tech
 
-SOF ELK ( SANS Elk VM )
+SOF ELK ( SANS Elk VM ):\
 http://for572.com/sof-elk-vm
 
-Security Onion/ELK
+Security Onion/ELK:\
 https://github.com/Security-Onion-Solutions/security-onion/blob/master/Verify_ISO.md
 
-WAZUH: (OSSEC + ELK + OwL) 
+WAZUH: (OSSEC + ELK + OwL) :\
  Download: https://packages.wazuh.com/vm/wazuh2.0.1_5.5.0.ova
 
 
@@ -184,7 +184,7 @@ Tools and Tech
 
 # Malware and Data Forensics
 
-LordPE
+LordPE:\
 Used for code injection and file analisys
 https://www.aldeid.com/wiki/LordPE
 
