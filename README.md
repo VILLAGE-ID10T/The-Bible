@@ -76,7 +76,8 @@ Tools and Tech
 -Kali and Stuff
 
 Training:\
-WebGoat
+
+WebGoat:\
 https://s3.amazonaws.com/webgoat-war/webgoat-container-7.0-SNAPSHOT-war-exec.jar
 
 ---
@@ -97,7 +98,7 @@ Check_ioc Script
 https://github.com/oneoffdallas/check_ioc
 
 
-
+---
 
 # Threat Hunting
 Tools and Tech
@@ -164,6 +165,7 @@ LordPE:\
 Used for code injection and file analisys
 https://www.aldeid.com/wiki/LordPE
 
+---
 
 # Intrusion Detection
 Tools and Tech
@@ -175,17 +177,18 @@ Security Onion/ELK:\
 https://github.com/Security-Onion-Solutions/security-onion/blob/master/Verify_ISO.md
 
 WAZUH: (OSSEC + ELK + OwL) :\
- Download: https://packages.wazuh.com/vm/wazuh2.0.1_5.5.0.ova
+ https://packages.wazuh.com/vm/wazuh2.0.1_5.5.0.ova
 
 
+---
 # Network Traffic Analysis
 Tools and Tech
 
-
+---
 # Malware and Data Forensics
 
 LordPE:\
-Used for code injection and file analisys
+Used for code injection and file analisys\
 https://www.aldeid.com/wiki/LordPE
 
 
