@@ -22,7 +22,7 @@ https://holisticinfosec.blogspot.com/2018/01/toolsmith-130-osint-with-buscador.h
 
 # Logging, Alerting, and Health 
 
-Alien Vault (OSSIM):
+Alien Vault (OSSIM):\
 https://otx.alienvault.com
 
 Splunk:
